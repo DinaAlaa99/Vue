@@ -1,4 +1,4 @@
-# firstlab
+# Day1
 
 ## Project setup
 ```
