@@ -1,4 +1,4 @@
-# secondlab
+# Day2
 
 ## Project setup
 ```
