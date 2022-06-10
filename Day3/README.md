@@ -1,4 +1,4 @@
-# lab3
+# Day3
 
 ## Project setup
 ```
